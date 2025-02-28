@@ -1,4 +1,4 @@
-## Hi 👋, I'm Zhenbin Chen.
+## Hi 👋, I'm Zhenbin Chen (陈振彬).
 
 <!--
 **BiNLP/BiNLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
